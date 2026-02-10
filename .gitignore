@@ -1,0 +1,10 @@
+# Data (do not commit raw files)
+data/raw/
+data/processed/*.csv
+
+# VS Code / Jupyter noise
+.vscode/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
