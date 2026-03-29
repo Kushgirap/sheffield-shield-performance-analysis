@@ -7,4 +7,7 @@ data/processed/*.csv
 .ipynb_checkpoints/
 
 # OS
+.DS_Storedata/Raw/
 .DS_Store
+**/.DS_Store
+data/processed/ssh_male_json/
