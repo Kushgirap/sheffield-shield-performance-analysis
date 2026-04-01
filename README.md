@@ -22,7 +22,6 @@ The analysis covers SA's 9 matches across 5 key areas:
 ├── dashboards/             # Tableau packaged workbooks
 ├── notebooks/              # Match review Jupyter notebooks
 ├── reports/                # PDF match reports
-├── docs/                   # Methodology and assumptions
 └── README.md
 ```
 
